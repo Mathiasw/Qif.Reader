@@ -27,5 +27,6 @@ ITransactionDetail result = service.QueryFromFile<NonInvestmentTransaction>(_pat
     dotnet test
 
 ### License
+
 Copyright (c) 2018 Ahmet Cavus  
 Licensed under the MIT license.
